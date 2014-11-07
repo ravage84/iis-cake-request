@@ -44,6 +44,9 @@ See the [contribution guide](CONTRIBUTING.md).
 ## TODOs
 
 - Unit Tests
+- Add Travis batch
+- Add Coveralls batch
+- Add Scrutinizer batch
 
 ## License
 
