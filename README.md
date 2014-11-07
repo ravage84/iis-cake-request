@@ -39,7 +39,7 @@ Replace your ``app/webroot/index.php`` by the one from this plugin at [webroot/i
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md).
+See the [contribution guide](CONTRIBUTING.md).
 
 ## TODOs
 
