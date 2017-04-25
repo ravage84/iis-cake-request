@@ -35,6 +35,6 @@
 		"phpunit/phpunit": "^3.7.0"
 	},
 	"extra": {
-		"installer-name": "PluginSkeleton"
+		"installer-name": "IISCakeRequest"
 	}
 }
