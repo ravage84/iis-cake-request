@@ -18,7 +18,7 @@ in the Cookbook.
 
 ### Requirements
 
-- PHP >= 5.3
+- PHP >= 5.4
 - CakePHP 2.x
 
 ## CakePHP Version Support
